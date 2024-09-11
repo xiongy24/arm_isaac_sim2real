@@ -1,0 +1,24 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ROS2: robot_controller",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/ros2_ws/src/robot_controller/robot_controller/robot_controller.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/ros2_ws/install/robot_controller/lib/python3.8/site-packages:${env:PYTHONPATH}",
+                "LD_LIBRARY_PATH": "${workspaceFolder}/ros2_ws/install/robot_controller/lib:${env:LD_LIBRARY_PATH}",
+                "PATH": "${workspaceFolder}/ros2_ws/install/robot_controller/bin:${env:PATH}"
+            },
+            "preLaunchTask": "source ROS2",
+            "args": [
+                "--ros-args"
+            ]
+        }
+    ]
+}

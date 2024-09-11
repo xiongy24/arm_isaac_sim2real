@@ -1,0 +1,39 @@
+[0.267s] Invoking command in '/home/robot/ros2_isaac_communicate/ros2_ws/src/robot_controller': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build install --record /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/install.log --single-version-externally-managed install_data
+[0.369s] running egg_info
+[0.369s] creating ../../build/robot_controller/robot_controller.egg-info
+[0.369s] writing ../../build/robot_controller/robot_controller.egg-info/PKG-INFO
+[0.369s] writing dependency_links to ../../build/robot_controller/robot_controller.egg-info/dependency_links.txt
+[0.369s] writing entry points to ../../build/robot_controller/robot_controller.egg-info/entry_points.txt
+[0.369s] writing requirements to ../../build/robot_controller/robot_controller.egg-info/requires.txt
+[0.369s] writing top-level names to ../../build/robot_controller/robot_controller.egg-info/top_level.txt
+[0.369s] writing manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.370s] reading manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.370s] writing manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.370s] running build
+[0.370s] running build_py
+[0.370s] creating /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build
+[0.370s] creating /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build/lib
+[0.370s] creating /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build/lib/robot_controller
+[0.370s] copying robot_controller/robot_controller.py -> /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build/lib/robot_controller
+[0.370s] copying robot_controller/__init__.py -> /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build/lib/robot_controller
+[0.370s] running install
+[0.371s] running install_lib
+[0.371s] creating /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.371s] copying /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build/lib/robot_controller/robot_controller.py -> /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.371s] copying /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build/lib/robot_controller/__init__.py -> /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.371s] byte-compiling /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller/robot_controller.py to robot_controller.cpython-310.pyc
+[0.371s] byte-compiling /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.371s] running install_data
+[0.372s] creating /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share
+[0.372s] creating /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/ament_index
+[0.372s] creating /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/ament_index/resource_index
+[0.372s] creating /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/ament_index/resource_index/packages
+[0.372s] copying resource/robot_controller -> /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/ament_index/resource_index/packages
+[0.372s] creating /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/robot_controller
+[0.372s] copying package.xml -> /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/robot_controller
+[0.372s] running install_egg_info
+[0.372s] Copying ../../build/robot_controller/robot_controller.egg-info to /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info
+[0.373s] running install_scripts
+[0.383s] Installing robot_controller script to /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/robot_controller
+[0.383s] writing list of installed files to '/home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/install.log'
+[0.394s] Invoked command in '/home/robot/ros2_isaac_communicate/ros2_ws/src/robot_controller' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build install --record /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/install.log --single-version-externally-managed install_data

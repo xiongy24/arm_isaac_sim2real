@@ -1,0 +1,22 @@
+[0.275s] Invoking command in '/home/robot/ros2_isaac_communicate/ros2_ws/src/robot_controller': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build install --record /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/install.log --single-version-externally-managed install_data
+[0.385s] running egg_info
+[0.386s] writing ../../build/robot_controller/robot_controller.egg-info/PKG-INFO
+[0.386s] writing dependency_links to ../../build/robot_controller/robot_controller.egg-info/dependency_links.txt
+[0.386s] writing entry points to ../../build/robot_controller/robot_controller.egg-info/entry_points.txt
+[0.386s] writing requirements to ../../build/robot_controller/robot_controller.egg-info/requires.txt
+[0.386s] writing top-level names to ../../build/robot_controller/robot_controller.egg-info/top_level.txt
+[0.387s] reading manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.387s] writing manifest file '../../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.387s] running build
+[0.387s] running build_py
+[0.387s] running install
+[0.388s] running install_lib
+[0.388s] running install_data
+[0.388s] copying package.xml -> /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/share/robot_controller
+[0.388s] running install_egg_info
+[0.389s] removing '/home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.389s] Copying ../../build/robot_controller/robot_controller.egg-info to /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info
+[0.390s] running install_scripts
+[0.401s] Installing robot_controller script to /home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/robot_controller
+[0.401s] writing list of installed files to '/home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/install.log'
+[0.412s] Invoked command in '/home/robot/ros2_isaac_communicate/ros2_ws/src/robot_controller' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/ros2_isaac_communicate/ros2_ws/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_controller build --build-base /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/build install --record /home/robot/ros2_isaac_communicate/ros2_ws/build/robot_controller/install.log --single-version-externally-managed install_data
